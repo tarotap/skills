@@ -1,4 +1,4 @@
-# AI Tarot — Agent Skills by Tarotap
+# Tarotap Skills
 
 AI tarot reading skills for AI agents: a complete, practiced reading craft
 with real randomness, public-domain Rider–Waite–Smith card imagery, and
@@ -7,7 +7,7 @@ position-by-position interpretation.
 ## Install
 
 ```bash
-npx skills add tarotap/ai-tarot
+npx skills add tarotap/skills
 ```
 
 Works with Claude Code, Cursor, Codex, Copilot, Windsurf, and 40+ other
@@ -17,7 +17,7 @@ agents via the open agent skills ecosystem.
 
 | Skill | Description |
 | --- | --- |
-| `tarot-reading` | Interactive three-round tarot reading: frame the question, pick a spread (9 layouts up to the full Celtic Cross), let the user choose cards from the shuffled deck, draw with cryptographic randomness and fair reversals, then interpret each position with card imagery. |
+| `ai-tarot-reading` | Interactive three-round tarot reading: frame the question, pick a spread (9 layouts up to the full Celtic Cross), let the user choose cards from the shuffled deck, draw with cryptographic randomness and fair reversals, then interpret each position with card imagery. |
 
 ## About
 

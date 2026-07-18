@@ -1,5 +1,5 @@
 ---
-name: tarot-reading
+name: ai-tarot-reading
 description: >-
   Conduct a complete, interactive tarot reading with real randomness, card
   imagery, and position-by-position interpretation. Use when the user asks for
