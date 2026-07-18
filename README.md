@@ -1,13 +1,13 @@
-# Tarotap Agent Skills
+# AI Tarot — Agent Skills by Tarotap
 
-Skills that give AI agents a complete, practiced tarot reading craft — real
-randomness, public-domain Rider–Waite–Smith card imagery, and
+AI tarot reading skills for AI agents: a complete, practiced reading craft
+with real randomness, public-domain Rider–Waite–Smith card imagery, and
 position-by-position interpretation.
 
 ## Install
 
 ```bash
-npx skills add tarotap/skills
+npx skills add tarotap/ai-tarot
 ```
 
 Works with Claude Code, Cursor, Codex, Copilot, Windsurf, and 40+ other
