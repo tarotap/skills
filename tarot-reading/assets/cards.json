@@ -1,0 +1,529 @@
+{
+  "deck": "rider-waite-smith",
+  "cards": [
+    {
+      "pick": 1,
+      "name": "The Fool",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00_Fool.jpg"
+    },
+    {
+      "pick": 2,
+      "name": "The Magician",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01_Magician.jpg"
+    },
+    {
+      "pick": 3,
+      "name": "The High Priestess",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02_High_Priestess.jpg"
+    },
+    {
+      "pick": 4,
+      "name": "The Empress",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03_Empress.jpg"
+    },
+    {
+      "pick": 5,
+      "name": "The Emperor",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04_Emperor.jpg"
+    },
+    {
+      "pick": 6,
+      "name": "The Hierophant",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05_Hierophant.jpg"
+    },
+    {
+      "pick": 7,
+      "name": "The Lovers",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06_Lovers.jpg"
+    },
+    {
+      "pick": 8,
+      "name": "The Chariot",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07_Chariot.jpg"
+    },
+    {
+      "pick": 9,
+      "name": "Strength",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg"
+    },
+    {
+      "pick": 10,
+      "name": "The Hermit",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09_Hermit.jpg"
+    },
+    {
+      "pick": 11,
+      "name": "Wheel of Fortune",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg"
+    },
+    {
+      "pick": 12,
+      "name": "Justice",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg"
+    },
+    {
+      "pick": 13,
+      "name": "The Hanged Man",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_12_Hanged_Man.jpg"
+    },
+    {
+      "pick": 14,
+      "name": "Death",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg"
+    },
+    {
+      "pick": 15,
+      "name": "Temperance",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg"
+    },
+    {
+      "pick": 16,
+      "name": "The Devil",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_15_Devil.jpg"
+    },
+    {
+      "pick": 17,
+      "name": "The Tower",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_16_Tower.jpg"
+    },
+    {
+      "pick": 18,
+      "name": "The Star",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_17_Star.jpg"
+    },
+    {
+      "pick": 19,
+      "name": "The Moon",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_18_Moon.jpg"
+    },
+    {
+      "pick": 20,
+      "name": "The Sun",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_19_Sun.jpg"
+    },
+    {
+      "pick": 21,
+      "name": "Judgement",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_20_Judgement.jpg"
+    },
+    {
+      "pick": 22,
+      "name": "The World",
+      "arcana": "major",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21_World.jpg"
+    },
+    {
+      "pick": 23,
+      "name": "Ace of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg"
+    },
+    {
+      "pick": 24,
+      "name": "Two of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg"
+    },
+    {
+      "pick": 25,
+      "name": "Three of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg"
+    },
+    {
+      "pick": 26,
+      "name": "Four of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg"
+    },
+    {
+      "pick": 27,
+      "name": "Five of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg"
+    },
+    {
+      "pick": 28,
+      "name": "Six of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg"
+    },
+    {
+      "pick": 29,
+      "name": "Seven of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg"
+    },
+    {
+      "pick": 30,
+      "name": "Eight of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg"
+    },
+    {
+      "pick": 31,
+      "name": "Nine of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg"
+    },
+    {
+      "pick": 32,
+      "name": "Ten of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg"
+    },
+    {
+      "pick": 33,
+      "name": "Page of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg"
+    },
+    {
+      "pick": 34,
+      "name": "Knight of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg"
+    },
+    {
+      "pick": 35,
+      "name": "Queen of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg"
+    },
+    {
+      "pick": 36,
+      "name": "King of Wands",
+      "arcana": "minor",
+      "suit": "wands",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg"
+    },
+    {
+      "pick": 37,
+      "name": "Ace of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg"
+    },
+    {
+      "pick": 38,
+      "name": "Two of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg"
+    },
+    {
+      "pick": 39,
+      "name": "Three of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg"
+    },
+    {
+      "pick": 40,
+      "name": "Four of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg"
+    },
+    {
+      "pick": 41,
+      "name": "Five of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg"
+    },
+    {
+      "pick": 42,
+      "name": "Six of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg"
+    },
+    {
+      "pick": 43,
+      "name": "Seven of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg"
+    },
+    {
+      "pick": 44,
+      "name": "Eight of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg"
+    },
+    {
+      "pick": 45,
+      "name": "Nine of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg"
+    },
+    {
+      "pick": 46,
+      "name": "Ten of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg"
+    },
+    {
+      "pick": 47,
+      "name": "Page of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg"
+    },
+    {
+      "pick": 48,
+      "name": "Knight of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg"
+    },
+    {
+      "pick": 49,
+      "name": "Queen of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg"
+    },
+    {
+      "pick": 50,
+      "name": "King of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg"
+    },
+    {
+      "pick": 51,
+      "name": "Ace of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg"
+    },
+    {
+      "pick": 52,
+      "name": "Two of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg"
+    },
+    {
+      "pick": 53,
+      "name": "Three of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg"
+    },
+    {
+      "pick": 54,
+      "name": "Four of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg"
+    },
+    {
+      "pick": 55,
+      "name": "Five of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg"
+    },
+    {
+      "pick": 56,
+      "name": "Six of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg"
+    },
+    {
+      "pick": 57,
+      "name": "Seven of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg"
+    },
+    {
+      "pick": 58,
+      "name": "Eight of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg"
+    },
+    {
+      "pick": 59,
+      "name": "Nine of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg"
+    },
+    {
+      "pick": 60,
+      "name": "Ten of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg"
+    },
+    {
+      "pick": 61,
+      "name": "Page of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg"
+    },
+    {
+      "pick": 62,
+      "name": "Knight of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg"
+    },
+    {
+      "pick": 63,
+      "name": "Queen of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg"
+    },
+    {
+      "pick": 64,
+      "name": "King of Swords",
+      "arcana": "minor",
+      "suit": "swords",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg"
+    },
+    {
+      "pick": 65,
+      "name": "Ace of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg"
+    },
+    {
+      "pick": 66,
+      "name": "Two of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg"
+    },
+    {
+      "pick": 67,
+      "name": "Three of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg"
+    },
+    {
+      "pick": 68,
+      "name": "Four of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg"
+    },
+    {
+      "pick": 69,
+      "name": "Five of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg"
+    },
+    {
+      "pick": 70,
+      "name": "Six of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg"
+    },
+    {
+      "pick": 71,
+      "name": "Seven of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg"
+    },
+    {
+      "pick": 72,
+      "name": "Eight of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg"
+    },
+    {
+      "pick": 73,
+      "name": "Nine of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg"
+    },
+    {
+      "pick": 74,
+      "name": "Ten of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg"
+    },
+    {
+      "pick": 75,
+      "name": "Page of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg"
+    },
+    {
+      "pick": 76,
+      "name": "Knight of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg"
+    },
+    {
+      "pick": 77,
+      "name": "Queen of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg"
+    },
+    {
+      "pick": 78,
+      "name": "King of Pentacles",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg"
+    }
+  ]
+}
